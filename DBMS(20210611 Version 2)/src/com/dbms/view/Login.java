@@ -33,7 +33,6 @@ public class Login extends JFrame {
         this.add(wel);
         JLabel[] jl = new JLabel[]{
                 new JLabel("数据库类型:"),
-                new JLabel("身份验证"),
                 new JLabel("登录名:"),
                 new JLabel("密码:"),
         };
@@ -59,7 +58,7 @@ public class Login extends JFrame {
         jp[0].add(dbType);
         jp[1].add(jl[1]);
         jp[1].add(userName);
-        jp[2].add(jl[3]);
+        jp[2].add(jl[2]);
         jp[2].add(userPass);
         for (int i = 0; i < jl.length; i++) {
             jl[i].setPreferredSize(new Dimension(200, 20));
