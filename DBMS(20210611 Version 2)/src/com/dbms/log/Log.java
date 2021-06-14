@@ -9,7 +9,7 @@ public class Log {
     private FileWriter fw = null;
     File f=null;
     public Log() {
-        f = new File("D:\\JAVA\\DBMS\\src\\com\\dbms\\log\\log.txt");
+        f = new File(this.getClass().getResource("log.txt").getPath());
         try {
             if(!f.exists()){
                 f.createNewFile();
