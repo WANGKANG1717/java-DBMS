@@ -1,5 +1,16 @@
-# java-DBMSJAVA大作业：做一个DBMS管理系统,
+# java-DBMSJAVA大作业：做一个DBMS管理系统
 使用java Swing写的GUI程序，基本实现了DBMS的最基本的功能,并支持sql语句。
+
+
+我宣布，我做错了！！！！！！！！！！！
+
+虽然在做这个DBMS的过程中，好多人跟我说要自己写数据库，我不信，后来跟老师聊了聊，才发现，是固执的我错了！！！！！！
+
+![QQ图片20210615141531](https://user-images.githubusercontent.com/85092561/122003049-206ab100-cde5-11eb-8130-5a56adcb192b.gif)
+
+
+只得推倒重来，又有事可以做了！![image](https://user-images.githubusercontent.com/85092561/122002847-daade880-cde4-11eb-8f97-ad9066879e2c.png)
+
 
 Version2 可同时支持Mysql和sqlSever
 
